@@ -1,0 +1,40 @@
+C:\Users\Fran\source\repos\obligatorio\obligatorio\obj\Debug\obligatorio.csproj.AssemblyReference.cache
+C:\Users\Fran\source\repos\obligatorio\obligatorio\obj\Debug\obligatorio.Properties.Resources.resources
+C:\Users\Fran\source\repos\obligatorio\obligatorio\obj\Debug\obligatorio.csproj.GenerateResource.cache
+C:\Users\Fran\source\repos\obligatorio\obligatorio\obj\Debug\obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\Fran\source\repos\obligatorio\obligatorio\bin\Debug\obligatorio.exe.config
+C:\Users\Fran\source\repos\obligatorio\obligatorio\bin\Debug\obligatorio.exe
+C:\Users\Fran\source\repos\obligatorio\obligatorio\bin\Debug\obligatorio.pdb
+C:\Users\Fran\source\repos\obligatorio\obligatorio\obj\Debug\obligatorio.Presentacion.frmDocentes.resources
+C:\Users\Fran\source\repos\obligatorio\obligatorio\obj\Debug\obligatorio.Form1.resources
+C:\Users\Fran\source\repos\obligatorio\obligatorio\obj\Debug\obligatorio.exe
+C:\Users\Fran\source\repos\obligatorio\obligatorio\obj\Debug\obligatorio.pdb
+C:\Users\Fran\source\repos\obligatorio\obligatorio\obj\Debug\obligatorio.Presentacion.frmEstudiantes.resources
+C:\Users\Fran\source\repos\obligatorio\obligatorio\obj\Debug\obligatorio.Presentacion.frmCursos.resources
+C:\Users\Fran\source\repos\obligatorio\obligatorio\obj\Debug\obligatorio.Presentacion.frmEstadisticas.resources
+C:\Users\Alumno\Downloads\obligatorio\obligatorio\bin\Debug\obligatorio.exe.config
+C:\Users\Alumno\Downloads\obligatorio\obligatorio\bin\Debug\obligatorio.exe
+C:\Users\Alumno\Downloads\obligatorio\obligatorio\bin\Debug\obligatorio.pdb
+C:\Users\Alumno\Downloads\obligatorio\obligatorio\obj\Debug\obligatorio.csprojAssemblyReference.cache
+C:\Users\Alumno\Downloads\obligatorio\obligatorio\obj\Debug\obligatorio.Presentacion.frmCursos.resources
+C:\Users\Alumno\Downloads\obligatorio\obligatorio\obj\Debug\obligatorio.Presentacion.frmDocentes.resources
+C:\Users\Alumno\Downloads\obligatorio\obligatorio\obj\Debug\obligatorio.Presentacion.frmEstadisticas.resources
+C:\Users\Alumno\Downloads\obligatorio\obligatorio\obj\Debug\obligatorio.Presentacion.frmEstudiantes.resources
+C:\Users\Alumno\Downloads\obligatorio\obligatorio\obj\Debug\obligatorio.Form1.resources
+C:\Users\Alumno\Downloads\obligatorio\obligatorio\obj\Debug\obligatorio.Properties.Resources.resources
+C:\Users\Alumno\Downloads\obligatorio\obligatorio\obj\Debug\obligatorio.csproj.GenerateResource.cache
+C:\Users\Alumno\Downloads\obligatorio\obligatorio\obj\Debug\obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Downloads\obligatorio\obligatorio\obj\Debug\obligatorio.exe
+C:\Users\Alumno\Downloads\obligatorio\obligatorio\obj\Debug\obligatorio.pdb
+D:\0ENTREGAR ESTO MAÑANA\obligatorio\obligatorio\obj\Debug\obligatorio.csproj.AssemblyReference.cache
+D:\0ENTREGAR ESTO MAÑANA\obligatorio\obligatorio\obj\Debug\obligatorio.csproj.SuggestedBindingRedirects.cache
+D:\0ENTREGAR ESTO MAÑANA\obligatorio\obligatorio\obj\Debug\obligatorio.Presentacion.frmCursos.resources
+D:\0ENTREGAR ESTO MAÑANA\obligatorio\obligatorio\obj\Debug\obligatorio.Presentacion.frmDocentes.resources
+D:\0ENTREGAR ESTO MAÑANA\obligatorio\obligatorio\obj\Debug\obligatorio.Presentacion.frmEstadisticas.resources
+D:\0ENTREGAR ESTO MAÑANA\obligatorio\obligatorio\obj\Debug\obligatorio.Presentacion.frmEstudiantes.resources
+D:\0ENTREGAR ESTO MAÑANA\obligatorio\obligatorio\obj\Debug\obligatorio.Form1.resources
+D:\0ENTREGAR ESTO MAÑANA\obligatorio\obligatorio\obj\Debug\obligatorio.Properties.Resources.resources
+D:\0ENTREGAR ESTO MAÑANA\obligatorio\obligatorio\obj\Debug\obligatorio.csproj.GenerateResource.cache
+D:\0ENTREGAR ESTO MAÑANA\obligatorio\obligatorio\obj\Debug\obligatorio.csproj.CoreCompileInputs.cache
+D:\0ENTREGAR ESTO MAÑANA\obligatorio\obligatorio\obj\Debug\obligatorio.exe
+D:\0ENTREGAR ESTO MAÑANA\obligatorio\obligatorio\obj\Debug\obligatorio.pdb
